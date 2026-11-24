@@ -1,0 +1,6 @@
+{
+  "name": "CINEGEN AI",
+  "description": "Full-stack AI video creation studio with multi-scene scripting, Veo & Runway adapters, AI voiceovers, timeline editing, YouTube Creator Mode, and MP4 rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
